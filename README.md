@@ -1,7 +1,5 @@
 # Shadow Protocol – Multi-Robot Leader–Follower System
 
-Experimental Robotics – Major Exam 2025
-
 ## 1. Workspace and Package
 
 - Workspace: `multibot_ws`
